@@ -41,8 +41,10 @@ Add FFmpeg to PATH environment variable
 
 * Scan QR In Your Whatsapp From [Here](https://replit.com/@DGXeon/Cheems-Bot-Multi-Device-Qr-Code-Generator?output%20only=1&lite=1#index.js)
 * Fork This Repo By Clicking [Here](https://github.com/H3L7BOY/LEXHA-MD/fork)
-* [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD4/)
+	
+* [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/H3L7BOY/LEXHA-MD/)
 * Wait 5-10 Min To Deploy 
+	
 * After Deploying On The Worker And Check The Logs
 
 </details>
