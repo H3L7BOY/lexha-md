@@ -1,124 +1,145 @@
-
-
-<h1 align="center">ꪶ𝗖𝗵𝗲𝗲𝗺𝘀 𝗕𝗼𝘁-𝗠𝗗 𝗩4ꫂ<br></h1>
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+LEXHA+MD+WA+BOT+REPO.;𝘾𝙍𝙀𝘼𝙏𝙀𝘿+𝘽𝙔+𝐇3𝐋7𝐁𝐎𝐘+𝐗𝐄𝐎𝐍+𝘼𝙉𝘿+𝗡𝗘𝗨𝗫;𝙏𝙃𝙄𝙎+𝙄𝙎+𝘼+𝘽𝙂𝙈+𝙎𝙏𝙄𝘾𝙆𝙀𝙍+𝘽𝙊𝙏;𝙒𝙄𝙏𝙃+𝙈𝙊𝙍𝙀+𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎;𝙏𝙃𝘼𝙉𝙆𝙎+𝙁𝙊𝙍+𝙑𝙄𝙎𝙄𝙏𝙄𝙉𝙂+𝙊𝙐𝙍+𝙂𝙄𝙏)](https://git.io/typing-svg)
 <p align="center">
-<img src="https://media.tenor.com/images/e15cb1453a09e25bab41116d930329bf/tenor.gif" alt="animated" width="540" height="280" />
+<img src="https://telegra.ph/file/327d24337c25275fc5343.jpg" alt="nz" width="350"/>
 </p>
 
-<p align="center">
-Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://github.com/DGXeon" target="_blank">Xeon</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
-</p>
+## LEXHA-MD
+<a href="https://youtu.be/QZsFKKmwV7Y"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/channel/UCuYd8PWkU5QDCExj-ku8bGQ" /><br>
+> [Automated Multi Device whatsapp bot created](https://github.com/H3L7BOY/LEXHA-MD) by [H3L7BOY](github.com/H3L7BOY)
 
-<p align="center">
-<a href="https://youtu.be/WiIqCdiDjFo"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
-</p>
+> Dont forget to give a star bro.🥲 IF Heroku Deploy seems Error, Fork This Repo And Try Deploy Again
 
-------
+> If The Api Of This Bot Run Empty You Can Change it To Your Own Api By Changing [Here](https://github.com/H3L7BOY/LEXHA-MD/blob/master/settings.js#L18) And Register [here](https://zenzapis.xyz/) to get apikey
 
-# ```Bot Info```
-<p align="center">
-<a href="https://github.com/DGXeon/followers"><img title="Followers" src="https://img.shields.io/github/followers/DGXeon?color=red&style=flat-square"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD4/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DGXeon/CheemsBot-MD4?color=blue&style=flat-square"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD4/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DGXeon/CheemsBot-MD4?color=red&style=flat-square"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD4/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DGXeon/CheemsBot-MD4?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD4"><img title="Open Source" src="https://img.shields.io/badge/Author-Xeon%20Bot%20Inc.-red?v=103"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD4/"><img title="Size" src="https://img.shields.io/github/repo-size/DGXeon/CheemsBot-MD4?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDGXeon%2FCheemsBot-MD4&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD4/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
-</p>
-<p align='center'>
-    </p>
 
--------
+</br>
 
-## ```Connect With Me```
-<p align="center">
-<a href="https://wa.me/916909137213"><img src="https://img.shields.io/badge/Contact Xeon-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A"><img src="https://img.shields.io/badge/Subscribe Xeon-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
-</p>
+<a href="https://github.com/H3L7BOY"><img title="H3L7BOY" src="https://img.shields.io/badge/Author-H3L7BOY-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
+<a href="https://github.com/H3L7BOY/LEXHA-MD"><img title="Stars" src="https://img.shields.io/github/stars/H3L7BOY/LEXHA-MD?color=54aeff&style=flat-square" /></a>
+<a href="https://github.com/H3L7BOY/LEXHA-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/H3L7BOY/LEXHA-MD?color=54aeff&style=flat-square" /></a>
+<a href="https://github.com/H3L7BOY/LEXHA-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/H3L7BOY/LEXHA-MD?label=watchers&color=54aeff&style=flat-square" /></a> <br>
 
-## ```Donate Me```
+---
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=H3L7BOY&theme=minimal)
 
-- [`FamPay`](https://telegra.ph/file/8737b098fd5702daeb7e0.jpg)
 
-<p align="left">
-Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe and FamPay.
-</p>
-
-## ```Bot Support Groups```
-
-- [`1st GC`](https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS)
-- [`2nd GC`](https://chat.whatsapp.com/LS1Xx3fSqg7FpSYSjKWhL5)
-- [`3rd GC`](https://chat.whatsapp.com/EcycNbJFCVT5ZsG9xIGkqd)
-
-# Setup For Deployment 👇
-
-- FORK THE REPOSITORY [Here](https://github.com/DGXeon/CheemsBot-MD4/fork)
-
-## `Scan QR Code For Session`
-[![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@DGXeon/Cheems-Bot-Multi-Device-Qr-Code-Generator?output%20only=1&lite=1#index.js)
-
-## `SETTINGS`
-
-- CHANGE OWNER NUMBER VCARD [Here](https://github.com/DGXeon/CheemsBot-MD4/blob/master/settings.js#L58)
-- CHANGE OWNER NUMBER MENU [Here](https://github.com/DGXeon/CheemsBot-MD4/blob/master/settings.js#L65)
-- CHANGE OWNER NUMBER TAG [Here](https://github.com/DGXeon/CheemsBot-MD4/blob/master/settings.js#L66)
-- CHANGE OWNER NAME [Here](https://github.com/DGXeon/CheemsBot-MD4/blob/master/settings.js#L59)
-- CHANGE BOT NAME [Here](https://github.com/DGXeon/CheemsBot-MD4/blob/master/settings.js#L67)
-
-## ` BUILDPACKS`
-
-```
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-```
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD4/)
-
-# Install Manually 👇
-## `Requirements`
-* [Node.js](https://nodejs.org/en/)
+<!-- Requirements -->
+<b><details><summary>Requirements</summary></b>
+* Some Text Editor
+* [Node JS](https://nodejs.org/en/)
 * [Git](https://git-scm.com/downloads)
-* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
-* [Libwebp](https://developers.google.com/speed/webp/download)
-* Any text editor
-## `Clone Repo & Installation dependencies`
-```bash
-git clone https://github.com/DGXeon/CheemsBot-MD4.git
-cd CheemsBot-MD4
+* [FFMPEG](https://ffmpeg.org/download.html)
 
-npm start
-```
-## `For Termux/Ssh/Ubuntu`
 ```bash
-apt update
-apt upgrade
-pkg update && pkg upgrade
-pkg install bash
-pkg install libwebp
-pkg install git -y
-pkg install nodejs -y 
-pkg install ffmpeg -y 
-pkg install wget
-pkg install imagemagick -y
-git clone https://github.com/DGXeon/CheemsBot-MD4
-cd CheemsBot-MD
-npm start
+Add FFmpeg to PATH environment variable
 ```
-## `For VPS`
+</details>
+
+
+<!-- Start via Heroku -->
+<b><details><summary>Start via Heroku</summary></b>
+
+* Scan QR In Your Whatsapp From [Here](https://replit.com/@DGXeon/Cheems-Bot-Multi-Device-Qr-Code-Generator?output%20only=1&lite=1#index.js)
+* Fork This Repo By Clicking [Here](https://github.com/H3L7BOY/LEXHA-MD/fork)
+* then Deploy The Bot From [Here](https://heroku.com/deploy)
+* Wait 5-10 Min To Deploy 
+* After Deploying On The Worker And Check The Logs
+
+</details>
+
+
+
+<!-- Installation via Termux -->
+<b><details><summary>Installation on Termux</summary></b>
 ```bash
-apt install nodejs 
-apt install git 
-apt apt install ffmpeg 
-apt apt install libwebp 
-apt apt install imagrmagick
-apt install bash
-git clone https://github.com/DGXeon/CheemsBot-MD4
-cd CheemsBot-MD4
-npm start
+> apt update
+> apt upgrade
+> pkg update && pkg upgrade
+> pkg install bash
+> pkg install libwebp
+> pkg install git -y
+> pkg install nodejs -y 
+> pkg install ffmpeg -y 
+> pkg install wget
+> pkg install imagemagick -y
+> git clone https://github.com/H3L7BOY/LEXHA-MD
+> cd LEXHA-MD
+> npm install
 ```
-## `For 24/7 Activation (Termux)`
+</details>
+
+<!-- Edit -->
+<b><details><summary>Edit settings.js</summary></b>
+```bash
+global.APIKeys = {
+	'https://zenzapis.xyz': 'YOURAPIKEY',
+}
+  
+global.owner = ["9181XXXXXX"]
+global.ownername = ["YourName"]
+```
+</details>
+
+
+<!-- 24hrs-->
+<b><details><summary>For 24 Hours Activation</summary></b>
+
 ```bash
 npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ```
+
+</details>
+
+----
+
+
+<b><details><summary>Available Features</summary><br>
+	
+| Features |  Availability |
+| :------: |  :----------: |
+|   Convert     |       ✅     |
+|   Database     |       ✅     |
+|   Owner     |       ✅    |
+|   Islami     |       ✅     |
+|   Downloader     |       ✅     |
+|   Webzone     |       ✅[      |
+|   Searching     |       ✅      |
+|   Textpro     |       ✅      |
+|   Ephoto     |       ✅     |
+|   Anime Web     |       ✅      |
+|   Stalker     |       ✅      |
+|   Random Text     |       ✅     |
+|   Random Image     |       ✅     |
+|   Nekos Life     |       ✅      |
+|   More Nsfw     |       ✅      |
+|   Creator     |       ✅      |
+
+</details>
+
+
+----
+
+<!-- Contact Owner -->
+<b><details><summary>Contact</summary></b>
+
+## ```Connect With Me```
+<p align="center">
+<a href="https://wa.me/43699399990478"><img src="https://img.shields.io/badge/Contact DOMINATOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/JwU0S28WIzA1IYOtNkgnoJ"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://youtube.com/channel/UCuYd8PWkU5QDCExj-ku8bGQ"><img src="https://img.shields.io/badge/Subscribe DOMINATOR-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+</p>
+
+</details>
+
+
+</details><hr>
+
+## Thanks To
+* [`DOMINATOR`](https://github.com/H3L7BOY)
+* [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
+* [`Alien-Alfa`](https://github.com/Alien-Alfa)
+* [`DGXeon`](https://github.com/DGXeon)
+* [`AflahXrd`](https://github.com/nexusNw)
+
+
+License: [MIT](https://github.com/LEXHA-MD/LICENSE)
