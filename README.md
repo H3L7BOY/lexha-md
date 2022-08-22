@@ -128,7 +128,7 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 <p align="center">
 <a href="https://wa.me/43699399990478"><img src="https://img.shields.io/badge/Contact DOMINATOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://chat.whatsapp.com/JwU0S28WIzA1IYOtNkgnoJ"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtube.com/channel/UCuYd8PWkU5QDCExj-ku8bGQ"><img src="https://img.shields.io/badge/Subscribe DOMINATOR-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+<a href="https://youtube.com/channel/UCGp-P7omXIz2LBIPo8bzcqw"><img src="https://img.shields.io/badge/Subscribe H3L7BOY-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 </p>
 
 </details>
